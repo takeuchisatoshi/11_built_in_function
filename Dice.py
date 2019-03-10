@@ -2,7 +2,7 @@
 #     print("helo from Dice")
 
 """
-6麺サイコロ
+6面サイコロ
 """
 
 import random
